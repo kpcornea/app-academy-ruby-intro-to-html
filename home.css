@@ -1,0 +1,16 @@
+html {
+  background-color: black;
+  color: green;
+}
+
+a {
+  color: red;
+}
+
+img {
+  width: 20%;
+}
+
+.empty-space {
+  height: 1000px;
+}
